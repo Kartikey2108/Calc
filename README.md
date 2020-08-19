@@ -1,6 +1,7 @@
 # A simple Calculator
  A simple calculator using HTML, CSS &amp; Javascript
- ![title-pic](calc.png)
+ ![Calc](https://user-images.githubusercontent.com/58729031/90660522-aec4e380-e263-11ea-93b9-4a25f2a528f7.png)
+
  This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
  
 ## Steps to execute this calculator:
